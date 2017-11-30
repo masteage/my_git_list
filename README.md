@@ -16,3 +16,13 @@
 * https://github.com/breinhart/Lua-In-Xcode
 	* xcode 에 lua syntax 적용
 	* xcode 경로 지정 가능 ("Add-Lua.sh")
+	* ex) 
+	<pre>
+	// 기본
+	DVTFOUNDATION_PATH="/Applications/Xcode.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/"
+
+	// 직접 설정
+	DVTFOUNDATION_PATH="/Users/taeseongsong/dev/Mac_Apps/Xcode/Xcode_8_2_1.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/"
+	</pre>
+
+----
