@@ -29,5 +29,3 @@
 	// 직접 설정
 	DVTFOUNDATION_PATH="/Users/taeseongsong/dev/Mac_Apps/Xcode/Xcode_8_2_1.app/Contents/SharedFrameworks/DVTFoundation.framework/Versions/A/Resources/"
 	</pre>
-
-----
